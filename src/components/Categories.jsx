@@ -14,28 +14,46 @@ const productsData = {
     { id: 1, name: 'Amazon Alexa', price: '₹2999', image: '/assets/electronic1.jpg' },
     { id: 2, name: 'Headphone', price: '₹7999', image: '/assets/electronic2.jpg' },
     { id: 3, name: 'Smartphone', price: '₹14999', image: '/assets/electronic3.jpg' },
+    { id: 4, name: 'Amazon Alexa', price: '₹2999', image: '/assets/electronic1.jpg' },
+    { id: 5, name: 'Headphone', price: '₹7999', image: '/assets/electronic2.jpg' },
+    { id: 6, name: 'Smartphone', price: '₹14999', image: '/assets/electronic3.jpg' },
   ],
   2: [
-    { id: 1, name: 'Notebook', price: '₹99', image: '/assets/book1.jpg' },
+    { id: 1, name: 'Notebook', price: '₹599', image: '/assets/book1.jpg' },
     { id: 2, name: 'Pen Set', price: '₹99', image: '/assets/stat2.jpg' },
     { id: 3, name: 'Sketch Book', price: '₹99', image: '/assets/notebook3.jpeg' },
+    { id: 4, name: 'Notebook', price: '₹989', image: '/assets/notebook2.jpg' },
+    { id: 5, name: 'Notebook', price: '₹990', image: '/assets/notebook3.jpg' },
+    { id: 6, name: 'Sketch Book', price: '₹99', image: '/assets/notebook3.jpeg' },
+    { id: 7, name: 'Notebook', price: '₹989', image: '/assets/notebook2.jpg' },
+    { id: 8, name: 'Notebook', price: '₹990', image: '/assets/notebook3.jpg' },
+    
     
   ],
   3: [
     { id: 1, name: 'Gift Box', price: '₹1999', image: '/assets/gift1.jpg' },
     { id: 2, name: 'Penguin', price: '₹999', image: '/assets/gift2.jpeg' },
     { id: 3, name: 'Remote Car', price: '₹2499', image: '/assets/gift3.jpg' },
+    { id: 4, name: 'Gift Box', price: '₹1999', image: '/assets/gift1.jpg' },
+    { id: 5, name: 'Penguin', price: '₹999', image: '/assets/gift2.jpeg' },
+    { id: 6, name: 'Remote Car', price: '₹2499', image: '/assets/gift3.jpg' },
   ],
   4: [
     { id: 1, name: 'Utensils Stand', price: '₹3999', image: '/assets/kitchen1.jpg' },
     { id: 2, name: 'Cooking Induction', price: '₹5999', image: '/assets/kitchen2.jpg' },
     { id: 3, name: 'Cooking Pan Set', price: '₹2999', image: '/assets/kitchen3.jpg' },
+    { id: 4, name: 'Utensils Stand', price: '₹3999', image: '/assets/kitchen1.jpg' },
+    { id: 5, name: 'Cooking Induction', price: '₹5999', image: '/assets/kitchen2.jpg' },
+    { id: 6, name: 'Cooking Pan Set', price: '₹2999', image: '/assets/kitchen3.jpg' },
     
   ],
   5: [
-    { id: 1, name: 'Cicket', price: '₹2499', image: '/assets/sports1.jpg' },
+    { id: 1, name: 'Cricket', price: '₹2499', image: '/assets/sports1.jpg' },
     { id: 2, name: 'Football', price: '₹499', image: '/assets/sports2.jpg' },
     { id: 3, name: 'Badminton', price: '₹1599', image: '/assets/sports3.jpeg' },
+    { id: 4, name: 'Cricket', price: '₹2499', image: '/assets/sports1.jpg' },
+    { id: 5, name: 'Football', price: '₹499', image: '/assets/sports2.jpg' },
+    { id: 6, name: 'Badminton', price: '₹1599', image: '/assets/sports3.jpeg' },
     
   ],
 };
